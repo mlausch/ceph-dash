@@ -1,5 +1,9 @@
-ceph-dash (0.1) UNRELEASED; urgency=low
+ceph-dash (1.1) UNRELEASED; urgency=low
 
+  [ Christian Eichelmann ]
   * Initial release: Does anyone read this?
 
- -- Christian Eichelmann <crapworks@github.com>  Thu, 07 Feb 2013 10:33:30 +0100
+  [ Manuel Lausch ]
+  * merged with upstream 
+
+ -- Manuel Lausch <mlausch@lxmlausch2>  Mon, 25 Apr 2016 14:03:58 +0200
