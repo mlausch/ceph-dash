@@ -1,4 +1,4 @@
-#!/usr/bin/env python
+#!/usr/bin/env python3
 # -*- coding: UTF-8 -*-
 
 import ssl
@@ -7,7 +7,7 @@ import json
 from flask import jsonify
 from flask import current_app
 
-from urllib2 import urlopen
+from urllib.request import urlopen
 
 from app.base import ApiResource
 
